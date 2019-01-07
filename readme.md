@@ -11,15 +11,19 @@
 	
 	1. **[DuiLib Ultimate](https://github.com/qdtroy/DuiLib_Ultimate)
 	duilib的改进版库，相比原始版本的duilib多了一些功能。**
-	2. **[swftools](https://github.com/alphonsetai/swftools)
-	swf 转换工具, pdf2swf, jpeg2swf, png2swf等。从一些文档转换成swf**
+	2. **[duilib](https://github.com/alphonsetai/duilib)
+	原始版本的duilib**
 	3. **[RemoteDesktopper](https://github.com/alphonsetai/RemoteDesktopper)
 	C#写的一个RDP远程桌面的包装**
 	4. **[cngrok](https://github.com/alphonsetai/cngrok)
 	一个内网穿越工具，目前暂未用过**
 	5. **[SuperWeChatPC](https://github.com/alphonsetai/SuperWeChatPC)
 	用户电脑上多开微信客户端，通过hook部分系统api，目前暂未用过**
-	6. 
+	6. **[SuperDllHijack](https://github.com/alphonsetai/SuperDllHijack)
+	通过dll函数跳转表枚举某个dll的函数，并以此来实现hook某个dll。目前暂未用过**
+	7. **[swftools](https://github.com/alphonsetai/swftools)
+	swf 转换工具, pdf2swf, jpeg2swf, png2swf等。从一些文档转换成swf**
+	8. 
 
 - 工具类
 
@@ -31,7 +35,9 @@
 	一个基于vue写的，web端点歌工具。可以通过web端对服务器的音乐播放进行点歌**
 	4. **[ServerStatus](https://github.com/alphonsetai/ServerStatus-1)
 	一个监控探针的精简版，可以监控cpu、内存、硬盘空间，同时可以看到简单的ping包情况**
-	5. 
+	5. **[微软的SDN项目-Software Define Network](https://github.com/alphonsetai/SDN)
+	这是通过powershell对windows 2016 server进行SDN配置和使用的工具。目前暂未用过**
+	6. 
 
 - 感兴趣类
 
@@ -41,4 +47,6 @@
 	一个私有聊天方案，目前暂未用过**
 	3. **[sensinfor](https://github.com/alphonsetai/sensinfor)
 	一个git、svn、php探针泄漏侦测，目前暂未用过**
-	4. 
+	4. **[get_tumblr_likes](https://github.com/alphonsetai/get_tumblr_likes)
+	遍历某个tumblr用户，并对喜好分析？ 目前暂未用过**
+	5. 
