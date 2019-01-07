@@ -1,19 +1,39 @@
-#[该项目](https://github.com/alphonsetai/MyForkProjectInGithub)，目用于说明我所复制（fork）的其他开源项目#
+[该项目](https://github.com/alphonsetai/MyForkProjectInGithub)，目用于说明我所复制（fork）的其他开源项目
 
-
+- #学习 & 电子书类#
+	1. **[toolbox](https://github.com/alphonsetai/toolbox)
+	所谓“全栈”工程师的必备技能，比较湿，但也算是开眼界**
+	2. 
 
 - #编程类#
 	
-	1. **[frp](https://github.com/fatedier/frp)
-	一个内网穿越工具**
-	2. 
+	1. **[DuiLib Ultimate](https://github.com/qdtroy/DuiLib_Ultimate)
+	duilib的改进版库，相比原始版本的duilib多了一些功能。**
+	2. **[swftools](https://github.com/alphonsetai/swftools)
+	swf 转换工具, pdf2swf, jpeg2swf, png2swf等。从一些文档转换成swf**
+	3. **[RemoteDesktopper](https://github.com/alphonsetai/RemoteDesktopper)
+	C#写的一个RDP远程桌面的包装**
+	4. **[cngrok](https://github.com/alphonsetai/cngrok)
+	一个内网穿越工具，目前暂未用过**
+	5. **[SuperWeChatPC](https://github.com/alphonsetai/SuperWeChatPC)
+	用户电脑上多开微信客户端，通过hook部分系统api，目前暂未用过**
+	6. **[SuperWeChatPC](https://github.com/alphonsetai/SuperWeChatPC)
+	用户电脑上多开微信客户端，通过hook部分系统api，目前暂未用过**
 
 - #工具类#
 
 	1. **[frp](https://github.com/alphonsetai/frp)
 	一个内网穿越工具，主要常用协议为replay，也支持负载均衡代理，类似nginx或apache代理**
+	2. **[cngrok](https://github.com/alphonsetai/cngrok)
+	一个内网穿越工具，目前暂未用过**
+	3. 
 
 - #感兴趣类#
 
 	1. **[chinese-dos-games](https://github.com/rwv/chinese-dos-games)
 	一个运行在web上的dos游戏，使用了em-dox虚拟机。由于虚拟机配置或支持问题，部分游戏还不可玩**
+	2. **[gaga](https://github.com/alphonsetai/gaga)
+	一个私有聊天方案，目前暂未用过**
+	3. **[sensinfor](https://github.com/alphonsetai/sensinfor)
+	一个git、svn、php探针泄漏侦测，目前暂未用过**
+	4. 
