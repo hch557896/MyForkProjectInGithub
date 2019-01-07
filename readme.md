@@ -25,6 +25,8 @@
 	C++ 并发编程指南**
 	12. **[Learning-Core-Audio-Book-Code-Sample](https://github.com/alphonsetai/Learning-Core-Audio-Book-Code-Sample)
 	ios的音频相关api例子合集**
+	13. **[beginning_linux_programming](https://github.com/alphonsetai/beginning_linux_programming)
+	linux程序设计的例子合集**
 
 - 编程类
 	
@@ -140,6 +142,14 @@
 	跨平台的写作工作流，主要用于前端的**
 	19. **[crawljax](https://github.com/alphonsetai/crawljax)
 	带排版器和渲染器的爬虫**
+	20. **[vlc-2.2.1.32-2013](https://github.com/alphonsetai/vlc-2.2.1.32-2013)
+	vlc**
+	21. **[RawPlayer](https://github.com/alphonsetai/RawPlayer)
+	原始颜色空间查看工具，可将堆叠到同一个文件里面的每一帧数据连续播放出来**
+	22. **[Chrome-Crawler](https://github.com/alphonsetai/Chrome-Crawler)
+	chrome下一个爬虫工具，不太好用**
+	22. **[cog](https://github.com/alphonsetai/cog)
+	苹果一个播放器**
 	
 
 - 感兴趣类
@@ -186,6 +196,8 @@
 	跨平台的ps 2模拟器**
 	21. **[Snake-AI](https://github.com/alphonsetai/Snake-AI)
 	基于路径搜索的智能贪食蛇游戏(游戏自己玩自己)**
+	22. **[xunsearch](https://github.com/alphonsetai/xunsearch)
+	一个全文检索工具，带分词功能**
 
 
 - 其他
@@ -227,9 +239,17 @@
 	android下的一个电视机顶盒apk**
 	12. **[7ghost](https://github.com/alphonsetai/7ghost)
 	php反代工具**
+	13. **[crx-crawler-for-crxdoc](https://github.com/alphonsetai/crx-crawler-for-crxdoc)
+	一个crx爬虫，但没用起来，不太会用**
+	14. **[gfxpoly](https://github.com/alphonsetai/gfxpoly)
+	一个多边形绘制库，用户绘制适量图？**
+	14. **[GraphvizOnline](https://github.com/alphonsetai/GraphvizOnline)
+	一个web工具，用于绘制数据结构，或流程图**
 
 - 0day
 	1. **[EQGRP_Lost_in_Translation](https://github.com/alphonsetai/EQGRP_Lost_in_Translation)
 	很有名的攻击路由代码**
 	2. **[CIAHackingTools](https://github.com/alphonsetai/CIAHackingTools)
 	很有名的攻击代码**
+	3. **[MBRhack](https://github.com/alphonsetai/MBRhack)
+	mbr攻击工具**
