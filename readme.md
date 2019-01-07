@@ -49,4 +49,6 @@
 	一个git、svn、php探针泄漏侦测，目前暂未用过**
 	4. **[get_tumblr_likes](https://github.com/alphonsetai/get_tumblr_likes)
 	遍历某个tumblr用户，并对喜好分析？ 目前暂未用过**
-	5. 
+	5. **[daze](https://github.com/alphonsetai/daze)
+	新科学冲浪工具，目前暂未用过**
+	6. 
