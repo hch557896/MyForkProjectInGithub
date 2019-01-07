@@ -5,7 +5,9 @@
 	所谓“全栈”工程师的必备技能，比较湿，但也算是开眼界**
 	2. **[learnGitBranching](https://github.com/alphonsetai/learnGitBranching)
 	可视化学习git命令集**
-	3. 
+	3. **[Bookmarks](https://github.com/alphonsetai/Bookmarks)
+	各类编程相关书籍，语法相关的入门级。**
+	4. 
 
 - 编程类
 	
@@ -23,7 +25,16 @@
 	通过dll函数跳转表枚举某个dll的函数，并以此来实现hook某个dll。目前暂未用过**
 	7. **[swftools](https://github.com/alphonsetai/swftools)
 	swf 转换工具, pdf2swf, jpeg2swf, png2swf等。从一些文档转换成swf**
-	8. 
+	8. **[LearnVideoToolBox](https://github.com/alphonsetai/LearnVideoToolBox)
+	ios下对音视频编解码的一些范例，目前暂未用过**
+	9. **[DPlayer](https://github.com/alphonsetai/DPlayer)
+	h5播放器，支持hls、flv、dash、bt等，目前暂未用过**
+	10. **[ZeroTierOne](https://github.com/alphonsetai/ZeroTierOne)
+	一个半开源的sock2tun（sock2tap）工具，支持跨平台。类似badvpn，但工作方式不同，badvpn对tap设备有要求**
+	11. asd
+	12. **[flv.js](https://github.com/alphonsetai/flv.js)
+	B站开源的flv转mp4容器给html5播放器实时播放的开源**
+	13. 
 
 - 工具类
 
@@ -39,7 +50,11 @@
 	这是通过powershell对windows 2016 server进行SDN配置和使用的工具。目前暂未用过**
 	6. **[ncmdump](https://github.com/alphonsetai/ncmdump)
 	黄某云音乐的ncmdump文件转换工具，目前暂未用过**
-	7. 
+	7. **[HyperApp-Guide](https://github.com/alphonsetai/HyperApp-Guide)
+	SSH和docker自动化部署工具，但是看上去也是一个很有hacker范的运维整体工具，目前暂未用过**
+	8. **[KMS-activator](https://github.com/alphonsetai/KMS-activator)
+	KMS服务端，半开源，目前暂未用过**
+	9. 
 
 - 感兴趣类
 
@@ -49,8 +64,8 @@
 	chinese-dos-games的web静态页面代码**
 	3. **[sensinfor](https://github.com/alphonsetai/sensinfor)
 	一个git、svn、php探针泄漏侦测，目前暂未用过**
-	4. **[get_tumblr_likes](https://github.com/alphonsetai/get_tumblr_likes)
-	遍历某个tumblr用户，并对喜好分析？ 目前暂未用过**
+	4. **[em-dosbox](https://github.com/alphonsetai/em-dosbox)
+	dosbox虚拟机，目前暂未从该项目中单独编译运行过**
 	5. **[daze](https://github.com/alphonsetai/daze)
 	新科学冲浪工具，目前暂未用过**
 	6. **[ratel](https://github.com/alphonsetai/ratel)
@@ -63,4 +78,14 @@
 	图床工具，目前暂未用过**
 	10. **[Anti-Anti-Spider](https://github.com/alphonsetai/Anti-Anti-Spider)
 	反反爬虫，主要针对现阶段部分网站的反爬虫机制（可能反制策略已经过时了），目前暂未用过**
-	11. 
+	11. **[sensinfor](https://github.com/alphonsetai/sensinfor)
+	一个git、svn、php探针泄漏侦测，目前暂未用过**
+	12. **[everywhere](https://github.com/alphonsetai/everywhere)
+	文本内容搜索工具，目前暂未用过**
+	13. **[node-tap](https://github.com/alphonsetai/node-tap)
+	TypeScript实现的tap转ss数据工具，目前暂未用过**
+	14. **[v86](https://github.com/alphonsetai/v86)
+	浏览器中运行各类操作系统合集，浏览器开一个x86虚拟机，目前暂未用过**
+	15. **[myrtille](https://github.com/alphonsetai/myrtille)
+	RDP远程桌面快速连接工具，无需客户端，直接从web登录，目前暂未用过**
+	16. 
