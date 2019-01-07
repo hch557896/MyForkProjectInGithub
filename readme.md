@@ -11,6 +11,20 @@
 	编程书籍，偏向于系统应用编程方面。**
 	5. **[Linux-System-Programming](https://github.com/alphonsetai/Linux-System-Programming)
 	linux系统编程的例子**
+	6. **[WindowsInternals](https://github.com/alphonsetai/WindowsInternals)
+	windows核心编程的例子**
+	7. **[Algorithm](https://github.com/alphonsetai/Algorithm)
+	常见算法和数据结构的实现**
+	8. **[WindowsSDK7-Samples](https://github.com/alphonsetai/WindowsSDK7-Samples)
+	win 7 sdk的各种例子，基本涵盖了用户态的大部分api(win32 api)**
+	9. **[Qix](https://github.com/alphonsetai/Qix)
+	汇聚了几个比较潮的开发工具及语言的学习资源**
+	10. **[AlgorithmVisualizer](https://github.com/alphonsetai/AlgorithmVisualizer)
+	基于web实现的算法可视化工具**
+	11. **[Cplusplus-Concurrency-In-Practice](https://github.com/alphonsetai/Cplusplus-Concurrency-In-Practice)
+	C++ 并发编程指南**
+	12. **[Learning-Core-Audio-Book-Code-Sample](https://github.com/alphonsetai/Learning-Core-Audio-Book-Code-Sample)
+	ios的音频相关api例子合集**
 
 - 编程类
 	
@@ -52,22 +66,39 @@
 	265裸流分析器**
 	19. **[taglib](https://github.com/alphonsetai/taglib)
 	多种音频容器的元数据修改器，可以修改封面、作者信息之类(IDv3)**
-	20. **[srs](https://github.com/alphonsetai/srs)
+	20. **[FFmpeg-iOS-build-script](https://github.com/alphonsetai/FFmpeg-iOS-build-script)
+	ios版本的ffmpeg编译脚本**
+	21. **[srs](https://github.com/alphonsetai/srs)
 	Simple-RTMP-Server，成套的rtmp直播服务架构，比较简单的实现。**
-	21. **[Divert](https://github.com/alphonsetai/Divert)
+	22. **[Divert](https://github.com/alphonsetai/Divert)
 	windows下内核态抓包库，和winpacp不同（winpcap是用户态）。内核态下的抓包可以做数据包注入，用户态仅仅是一个旁路**
-	22. **[clumsy](https://github.com/alphonsetai/clumsy)
+	23. **[clumsy](https://github.com/alphonsetai/clumsy)
 	Divert二次开发的工具，可做网络模拟，python写的**
-	23. **[moosefs](https://github.com/alphonsetai/moosefs)
+	24. **[moosefs](https://github.com/alphonsetai/moosefs)
 	海量文件系统，用于存储松散碎片文件，以及做集群用。但比较费磁盘空间，也解决了inode不够用的情况。**
-	24. **[pywin32](https://github.com/alphonsetai/pywin32)
+	25. **[pywin32](https://github.com/alphonsetai/pywin32)
 	提供通过python直接访问win32 api的方式**
-	25. **[dokany](https://github.com/dokan-dev/dokany)
+	26. **[dokany](https://github.com/dokan-dev/dokany)
 	无驱动虚拟磁盘工具，没仔细看代码，估计是数据存在内存里，或者某个临时文件里面**
-	26. **[pdf2htmlEX](https://github.com/alphonsetai/pdf2htmlEX)
+	27. **[pdf2htmlEX](https://github.com/alphonsetai/pdf2htmlEX)
 	pdf文档生成为html页面**
-	27. **[SQLiteCpp](https://github.com/alphonsetai/SQLiteCpp)
+	28. **[SQLiteCpp](https://github.com/alphonsetai/SQLiteCpp)
 	SQLiteCpp 3的c++版本封装**
+	29. **[caffe](https://github.com/alphonsetai/caffe)
+	一个机器学习框架**
+	30. **[revolver](https://github.com/alphonsetai/revolver)
+	一个linux下的c++网络框架，没用过**
+	31. **[winsparkle](https://github.com/alphonsetai/winsparkle)
+	一个windows下自动更新的库，没用过**
+	32. **[zxing-cpp](https://github.com/alphonsetai/zxing-cpp)
+	c++版本的qrcode识别工具**
+	33. **[obs-studio](https://github.com/alphonsetai/obs-studio)
+	obs-studio**
+	34. **[obs](https://github.com/alphonsetai/OBS)
+	obs**
+	35. **[FreeSWITCH](https://github.com/alphonsetai/FreeSWITCH)
+	电话软交换**
+
 
 - 工具类
 
@@ -103,6 +134,13 @@
 	Hadoop下一个运维，调优工具。集成较多web方式可执行调优的入口**
 	16. **[DebugViewPP](https://github.com/alphonsetai/DebugViewPP)
 	debug view的替代方案，同时可以对debug view的实现原理做一个了解**
+	17. **[kcptun](https://github.com/alphonsetai/kcptun)
+	一种简易的机遇udp实现的隧道协议（kcp）**
+	18. **[WeFlow](https://github.com/alphonsetai/WeFlow)
+	跨平台的写作工作流，主要用于前端的**
+	19. **[crawljax](https://github.com/alphonsetai/crawljax)
+	带排版器和渲染器的爬虫**
+	
 
 - 感兴趣类
 
@@ -146,6 +184,8 @@
 	python版的微信机器人，估计也是用web api实现的**
 	20. **[pcsx2](https://github.com/alphonsetai/pcsx2)
 	跨平台的ps 2模拟器**
+	21. **[Snake-AI](https://github.com/alphonsetai/Snake-AI)
+	基于路径搜索的智能贪食蛇游戏(游戏自己玩自己)**
 
 
 - 其他
@@ -153,7 +193,15 @@
 	不知道怎么说......**
 	2. **[architecture.of.internet-product](https://github.com/alphonsetai/architecture.of.internet-product)
 	互联网各家产品技术架构，不晓得是不是纯吹水内容。有很大一部分没来得及看**
-	
+	3. **[NTOSBE](https://github.com/alphonsetai/NTOSBE)
+	opennt中的一个nt内核**
+	4. **[MinNT](https://github.com/alphonsetai/MinNT)
+	opennt中的一个minint内核**
+	5. **[old-src](https://github.com/alphonsetai/old-src)
+	opennt中的一个最原始的nt内核**	
+	6. **[NT_4.0_SourceCode](https://github.com/alphonsetai/NT_4.0_SourceCode)
+	opennt中的一个最原始的nt 4.0内核**	
+
 - 待分类
 	1. **[strml.net](https://github.com/alphonsetai/strml.net)
 	一个模拟shell打字的web页面。目前暂未用过**
@@ -167,3 +215,21 @@
 	ssr**
 	6. **[mvtools](https://github.com/alphonsetai/mvtools)
 	mvtools plugin for avisynth**
+	7. **[msbuild](https://github.com/alphonsetai/msbuild)
+	微软把msbuild开源出来了，供二次开发用**
+	8. **[finalspeed](https://github.com/alphonsetai/finalspeed)
+	双边加速的一个github介绍**
+	9. **[serverSpeeder_kernel](https://github.com/alphonsetai/serverSpeeder_kernel)
+	锐速**
+	10. **[AppPolice](https://github.com/alphonsetai/AppPolice)
+	osx下cpu效能限制工具**
+	11. **[SMTVLauncher](https://github.com/alphonsetai/SMTVLauncher)
+	android下的一个电视机顶盒apk**
+	12. **[7ghost](https://github.com/alphonsetai/7ghost)
+	php反代工具**
+
+- 0day
+	1. **[EQGRP_Lost_in_Translation](https://github.com/alphonsetai/EQGRP_Lost_in_Translation)
+	很有名的攻击路由代码**
+	2. **[CIAHackingTools](https://github.com/alphonsetai/CIAHackingTools)
+	很有名的攻击代码**
