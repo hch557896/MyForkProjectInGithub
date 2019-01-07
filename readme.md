@@ -7,7 +7,10 @@
 	可视化学习git命令集**
 	3. **[Bookmarks](https://github.com/alphonsetai/Bookmarks)
 	各类编程相关书籍，语法相关的入门级。**
-	4. 
+	4. **[ebook](https://github.com/alphonsetai/ebook)
+	编程书籍，偏向于系统应用编程方面。**
+	5. **[Linux-System-Programming](https://github.com/alphonsetai/Linux-System-Programming)
+	linux系统编程的例子**
 
 - 编程类
 	
@@ -43,18 +46,28 @@
 	javascript版本的mpeg1和mpeg2的解码。可直接播放那个ts流？**
 	16. **[Bento4](https://github.com/alphonsetai/Bento4)
 	Bento4工具集，音视频相关，容器相关**
-	17. **[Divert](https://github.com/alphonsetai/Divert)
+	17. **[H264BSAnalyzer](https://github.com/alphonsetai/H264BSAnalyzer)
+	264裸流分析器**
+	18. **[HEVCBSAnalyzer](https://github.com/alphonsetai/HEVCBSAnalyzer)
+	265裸流分析器**
+	19. **[taglib](https://github.com/alphonsetai/taglib)
+	多种音频容器的元数据修改器，可以修改封面、作者信息之类(IDv3)**
+	20. **[srs](https://github.com/alphonsetai/srs)
+	Simple-RTMP-Server，成套的rtmp直播服务架构，比较简单的实现。**
+	21. **[Divert](https://github.com/alphonsetai/Divert)
 	windows下内核态抓包库，和winpacp不同（winpcap是用户态）。内核态下的抓包可以做数据包注入，用户态仅仅是一个旁路**
-	18. **[clumsy](https://github.com/alphonsetai/clumsy)
+	22. **[clumsy](https://github.com/alphonsetai/clumsy)
 	Divert二次开发的工具，可做网络模拟，python写的**
-	19. **[moosefs](https://github.com/alphonsetai/moosefs)
+	23. **[moosefs](https://github.com/alphonsetai/moosefs)
 	海量文件系统，用于存储松散碎片文件，以及做集群用。但比较费磁盘空间，也解决了inode不够用的情况。**
-	20. **[pywin32](https://github.com/alphonsetai/pywin32)
+	24. **[pywin32](https://github.com/alphonsetai/pywin32)
 	提供通过python直接访问win32 api的方式**
-	21. **[dokany](https://github.com/dokan-dev/dokany)
+	25. **[dokany](https://github.com/dokan-dev/dokany)
 	无驱动虚拟磁盘工具，没仔细看代码，估计是数据存在内存里，或者某个临时文件里面**
-	22. **[pdf2htmlEX](https://github.com/alphonsetai/pdf2htmlEX)
+	26. **[pdf2htmlEX](https://github.com/alphonsetai/pdf2htmlEX)
 	pdf文档生成为html页面**
+	27. **[SQLiteCpp](https://github.com/alphonsetai/SQLiteCpp)
+	SQLiteCpp 3的c++版本封装**
 
 - 工具类
 
@@ -86,6 +99,10 @@
 	android的apk动态脱壳工具**
 	14. **[Awesome](https://github.com/alphonsetai/Awesome)
 	windows下常用工具集**
+	15. **[hue](https://github.com/alphonsetai/hue)
+	Hadoop下一个运维，调优工具。集成较多web方式可执行调优的入口**
+	16. **[DebugViewPP](https://github.com/alphonsetai/DebugViewPP)
+	debug view的替代方案，同时可以对debug view的实现原理做一个了解**
 
 - 感兴趣类
 
