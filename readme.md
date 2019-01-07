@@ -31,11 +31,30 @@
 	h5播放器，支持hls、flv、dash、bt等，目前暂未用过**
 	10. **[ZeroTierOne](https://github.com/alphonsetai/ZeroTierOne)
 	一个半开源的sock2tun（sock2tap）工具，支持跨平台。类似badvpn，但工作方式不同，badvpn对tap设备有要求**
-	11. **[LearnVideoToolBox](https://github.com/alphonsetai/LearnVideoToolBox)
-	ios下对音视频编解码的一些范例，目前暂未用过**
+	11. **[badvpn](https://github.com/alphonsetai/badvpn)
+	一个vpn工具，支持socks2tap，socks2tun，目前暂未用过**
 	12. **[flv.js](https://github.com/alphonsetai/flv.js)
 	B站开源的flv转mp4容器给html5播放器实时播放的开源**
-	13. 
+	13. **[EasyAACEncoder](https://github.com/alphonsetai/EasyAACEncoder)
+	一个AAC编码库，具体什么情况还没用过，据说跨平台**
+	14. **[LearnVideoToolBox](https://github.com/alphonsetai/LearnVideoToolBox)
+	ios下对音视频编解码的一些范例，目前暂未用过**
+	15. **[jsmpeg](https://github.com/alphonsetai/jsmpeg)
+	javascript版本的mpeg1和mpeg2的解码。可直接播放那个ts流？**
+	16. **[Bento4](https://github.com/alphonsetai/Bento4)
+	Bento4工具集，音视频相关，容器相关**
+	17. **[Divert](https://github.com/alphonsetai/Divert)
+	windows下内核态抓包库，和winpacp不同（winpcap是用户态）。内核态下的抓包可以做数据包注入，用户态仅仅是一个旁路**
+	18. **[clumsy](https://github.com/alphonsetai/clumsy)
+	Divert二次开发的工具，可做网络模拟，python写的**
+	19. **[moosefs](https://github.com/alphonsetai/moosefs)
+	海量文件系统，用于存储松散碎片文件，以及做集群用。但比较费磁盘空间，也解决了inode不够用的情况。**
+	20. **[pywin32](https://github.com/alphonsetai/pywin32)
+	提供通过python直接访问win32 api的方式**
+	21. **[dokany](https://github.com/dokan-dev/dokany)
+	无驱动虚拟磁盘工具，没仔细看代码，估计是数据存在内存里，或者某个临时文件里面**
+	22. **[pdf2htmlEX](https://github.com/alphonsetai/pdf2htmlEX)
+	pdf文档生成为html页面**
 
 - 工具类
 
@@ -61,6 +80,12 @@
 	蚂蚁笔记服务端，也有一些bug，但至少开源。选择mongdb，不晓得该说什么好（确实开发起来很方便）。这个数据库太难用**
 	11. **[RGA](https://github.com/alphonsetai/RGA)
 	amd显卡性能分析工具，应该类似跑分，或者intel的GPU性能分析工具，还不清楚能不能做游戏运行时候的性能分析**
+	12. **[NamedPipeCapture](https://github.com/alphonsetai/NamedPipeCapture)
+	命名管道抓包工具，通过hook api方式实现**
+	13. **[drizzleDumper](https://github.com/alphonsetai/drizzleDumper)
+	android的apk动态脱壳工具**
+	14. **[Awesome](https://github.com/alphonsetai/Awesome)
+	windows下常用工具集**
 
 - 感兴趣类
 
@@ -102,7 +127,8 @@
 	一个自动脚本，某个老外配置了一大堆定时任务，当任务时间到了就会执行，比如要迟到了自动发邮件之类。目前暂未用过**
 	19. **[wxpy](https://github.com/alphonsetai/wxpy)
 	python版的微信机器人，估计也是用web api实现的**
-	20. 
+	20. **[pcsx2](https://github.com/alphonsetai/pcsx2)
+	跨平台的ps 2模拟器**
 
 
 - 其他
@@ -116,3 +142,11 @@
 	一个模拟shell打字的web页面。目前暂未用过**
 	2. **[TVRemoteIME](https://github.com/alphonsetai/TVRemoteIME)
 	控制android盒子输入法切换的工具，类似远程控制软件。目前暂未用过**
+	3. **[sorry](https://github.com/alphonsetai/sorry)
+	XXX为所欲为图片生成工具。目前暂未用过**
+	4. **[tumblr-video-downloader](https://github.com/alphonsetai/tumblr-video-downloader)
+	tumblr上的视频下载工具。目前暂未用过**
+	5. **[酸酸乳](https://github.com/alphonsetai/shadowsocksr-2)
+	ssr**
+	6. **[mvtools](https://github.com/alphonsetai/mvtools)
+	mvtools plugin for avisynth**
